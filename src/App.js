@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import ProductList from "./components/ProductList";
 import React, { useState } from "react";
 import Footer from "./components/Footer";
-import AddItem from "./components/AddItem";
+import AddItem from "./components/AddItem"; 
 
 function App() {
   const products = [
