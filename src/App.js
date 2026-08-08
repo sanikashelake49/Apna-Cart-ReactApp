@@ -6,7 +6,7 @@ import React, { useState } from "react";
 import Footer from "./components/Footer";
 import AddItem from "./components/AddItem"; 
 
-function App() {
+function App() { 
   const products = [
     {
       price: 99999, 
