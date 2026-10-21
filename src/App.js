@@ -8,7 +8,7 @@ import AddItem from "./components/AddItem";
 
 function App() {  
   const products = [
-    {
+    { 
       price: 99999,  
       name: "IPhone 10S Max",
       quantity: 0,
