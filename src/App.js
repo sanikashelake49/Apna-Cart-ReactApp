@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 import AddItem from "./components/AddItem";
 
 function App() {  
-  const products = [
+  const products = [ 
     { 
       price: 99999,  
       name: "IPhone 10S Max",
